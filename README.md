@@ -26,7 +26,6 @@ might be provided by another business inside the same building.
 
 The following are examples of possible synergies:
 
-
 ### Offices that provide a public service
 
 -
@@ -46,7 +45,6 @@ The following are examples of possible synergies:
 
 ### Other tenants?
 
-
 ## Infrastructure
 
 What is provided as part of the building itself, or by building
@@ -56,3 +54,5 @@ until something goes wrong with them.
 -
 -
 -
+
+###changes made from bryan barreto line 60
